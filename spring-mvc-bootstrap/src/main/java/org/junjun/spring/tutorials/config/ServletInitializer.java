@@ -1,4 +1,4 @@
-package com.cn.junjun.spring.sample.config;
+package org.junjun.spring.tutorials.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
