@@ -1,7 +1,4 @@
-# spring-4-samples
-
-### This repository would provide samples of Spring 4 use cases :
-
+# Spring Tutorials
 
 ## Spring MVC
 
