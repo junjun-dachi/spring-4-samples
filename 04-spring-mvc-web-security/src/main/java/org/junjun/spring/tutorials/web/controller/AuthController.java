@@ -14,7 +14,7 @@ public class AuthController {
 
 	@RequestMapping(value = "/login", method = RequestMethod.POST)
 	public String login() {
-		return "forward:/rest/todo/list";
+		return "forward:/todo/rest/list";
 	}
 
 	@RequestMapping(value = "/logout", method = RequestMethod.POST)

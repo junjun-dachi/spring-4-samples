@@ -8,6 +8,6 @@ public class HomeController {
 
 	@RequestMapping("/")
 	public String loadHomePage() {
-		return "redirect:/todo/list";
+		return "redirect:/todo/rest/list";
 	}
 }
